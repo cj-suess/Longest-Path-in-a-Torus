@@ -1,4 +1,6 @@
-[] This algorithm will find the longest path of increasing integers in a torus.
+[] This algorithm will find the longest path of increasing integers in a torus. 
+
+    --> Solution is O(n)
 
 [] Some details:
 
